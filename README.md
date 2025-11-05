@@ -116,4 +116,4 @@ The following machine learning algorithms were implemented and compared:
 This project demonstrates how integrating **Machine Learning**, **NLP**, and **Streamlit** can provide a reliable and user-friendly solution for SMS spam detection.  
 With an accuracy of **98.81%**, the system effectively filters unwanted SMS messages in real-time.  
 
-👉 **Experience the live app:** [https://spam-sms-classification-a5c1.onrender.com](https://spam-sms-classification-a5c1.onrender.com)  or  [https://spam-sms-classification-a5c1.onrender.com](https://spamsmsclassification-vikash.streamlit.app)
+👉 **Experience the live app:** [https://spam-sms-classification-a5c1.onrender.com](https://spam-sms-classification-a5c1.onrender.com)  or  [https://spamsmsclassification-vikash.streamlit.app](https://spamsmsclassification-vikash.streamlit.app)
