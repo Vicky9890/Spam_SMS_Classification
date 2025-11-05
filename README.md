@@ -8,7 +8,7 @@ With the exponential growth of mobile communication, spam messages have become a
 
 This project uses a Kaggle dataset of 5,572 messages to train multiple ML models like Decision Trees, Naive Bayes and Multilayer Perceptron networks models and identify spam messages efficiently. The app allows users to input text and instantly receive a prediction on whether it’s **Spam** or **Ham (non-spam)**.  
 
-👉 **Try it live here:** [🔗 Spam SMS Classification Web App](https://spamsmsclassification-vikash.streamlit.app/)  
+👉 **Try it live here:** [🔗 Spam SMS Classification Web App](https://spam-sms-classification-a5c1.onrender.com)  
 
 ---
 
@@ -26,7 +26,7 @@ This project uses a Kaggle dataset of 5,572 messages to train multiple ML models
 An interactive **Streamlit** app is built for end users to easily test SMS messages.  
 Simply type or paste a message and the model will classify it as **Spam** or **Ham** instantly.
 
-👉 **Live Demo:** [Click here to try the app](https://spamsmsclassification-vikash.streamlit.app/)  
+👉 **Live Demo:** [Click here to try the app](https://spam-sms-classification-a5c1.onrender.com)  
 
 ### 🧭 Run Locally
 ```bash
@@ -89,7 +89,7 @@ The following machine learning algorithms were implemented and compared:
 - **Scikit-learn**  
 - **NLTK**  
 - **Pandas & NumPy**  
-- **Matplotlib ** (for visualization)  
+- **Matplotlib** (for visualization)  
 
 ---
 
@@ -111,4 +111,4 @@ The following machine learning algorithms were implemented and compared:
 This project demonstrates how integrating **Machine Learning**, **NLP**, and **Streamlit** can provide a reliable and user-friendly solution for SMS spam detection.  
 With an accuracy of **98.81%**, the system effectively filters unwanted SMS messages in real-time.  
 
-👉 **Experience the live app:** [https://spamsmsclassification-vikash.streamlit.app/](https://spamsmsclassification-vikash.streamlit.app/)  
+👉 **Experience the live app:** [https://spam-sms-classification-a5c1.onrender.com](https://spam-sms-classification-a5c1.onrender.com)  
