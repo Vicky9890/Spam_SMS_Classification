@@ -8,7 +8,9 @@ With the exponential growth of mobile communication, spam messages have become a
 
 This project uses a Kaggle dataset of 5,572 messages to train multiple ML models like Decision Trees, Naive Bayes and Multilayer Perceptron networks models and identify spam messages efficiently. The app allows users to input text and instantly receive a prediction on whether it’s **Spam** or **Ham (non-spam)**.  
 
-👉 **Try it live here:** [🔗 Spam SMS Classification Web App](https://spam-sms-classification-a5c1.onrender.com)  
+👉 **Try it live here:** 🔗[Spam SMS Classification Web Application] 
+[Render](https://spam-sms-classification-a5c1.onrender.com) |
+[Stremlit](https://spamsmsclassification-vikash.streamlit.app/)
 
 ---
 
@@ -26,7 +28,9 @@ This project uses a Kaggle dataset of 5,572 messages to train multiple ML models
 An interactive **Streamlit** app is built for end users to easily test SMS messages.  
 Simply type or paste a message and the model will classify it as **Spam** or **Ham** instantly.
 
-👉 **Live Demo:** [Click here to try the app](https://spam-sms-classification-a5c1.onrender.com)  
+👉 **Live Demo:** 
+[Render](https://spam-sms-classification-a5c1.onrender.com) |
+[Stremlit](https://spamsmsclassification-vikash.streamlit.app/)
 
 ### 🧭 Run Locally
 ```bash
@@ -75,7 +79,8 @@ The following machine learning algorithms were implemented and compared:
 
 
 ### 🔹 Spam Detection Result  
-<img width="1591" height="910" alt="Screenshot 2025-10-31 152234" src="https://github.com/user-attachments/assets/a5fda368-1fff-4ecc-bcb8-f0fc0259e963" />
+<img width="1505" height="944" alt="image" src="https://github.com/user-attachments/assets/e64a353d-8587-41b8-87c9-06cd75cac25d" />
+
 
 ### 🔹 Ham Detection Result  
 <img width="1443" height="795" alt="image" src="https://github.com/user-attachments/assets/1e7c704b-474c-4c05-ba0d-0c20a172f2d2" />
@@ -111,4 +116,4 @@ The following machine learning algorithms were implemented and compared:
 This project demonstrates how integrating **Machine Learning**, **NLP**, and **Streamlit** can provide a reliable and user-friendly solution for SMS spam detection.  
 With an accuracy of **98.81%**, the system effectively filters unwanted SMS messages in real-time.  
 
-👉 **Experience the live app:** [https://spam-sms-classification-a5c1.onrender.com](https://spam-sms-classification-a5c1.onrender.com)  
+👉 **Experience the live app:** [https://spam-sms-classification-a5c1.onrender.com](https://spam-sms-classification-a5c1.onrender.com)  or  [https://spam-sms-classification-a5c1.onrender.com](https://spamsmsclassification-vikash.streamlit.app)
