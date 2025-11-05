@@ -49,7 +49,7 @@ if st.button("Submit"):
     result =[]
     if pred == 1:
         result = "This is a spam message"
-        st.image("https://img.freepik.com/free-vector/stylish-fraud-warning-background-protect-yourself-from-phishing-scams_1017-43350.jpg?w=826&t=st=1729321356~exp=1729321956~hmac=5c0db0f33d030373e48d1a7ecd322422864b0b50c653c5b0f4d94a2126482a98 ")
+        st.image("https://img.freepik.com/free-vector/stylish-fraud-warning-background-protect-yourself-from-phishing-scams_1017-43350.jpg?ga=GA1.1.193930335.1753278327&semt=ais_hybrid&w=740&q=80")
     else:
         result = "This is a Ham (Normal) message"
         st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxfozCISn_IlXc1v_r8CKDg5GtwpdYiJLYBg&s")
